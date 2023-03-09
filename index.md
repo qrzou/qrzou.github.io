@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a research assistant at Broadband Network and Digital Media Lab, Tsinghua University.
 
 ## Research Interests
 
