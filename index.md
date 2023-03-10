@@ -15,9 +15,9 @@ I am a research assistant at Broadband Network and Digital Media Lab, Tsinghua U
 
 ## News
 
-- **[Jan. 2023]** Our paper about unsupervised foreground-background segmentation based on GAN is accepted to AAAI 2023 (Oral).
-
+- **[Dec. 2022]** Our paper about unsupervised foreground-background segmentation based on GAN is accepted to AAAI 2023 (Oral).
+- **[Oct. 2021]** Our paper about learning foreground-background segmentation from improved layered GANs is accepted to WACV 2022.
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
