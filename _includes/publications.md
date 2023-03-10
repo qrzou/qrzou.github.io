@@ -35,7 +35,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2104.00483.pdf">Learning Foreground-Background Segmentation from Improved Layered GANs</a></div>
-    <div class="author" style="font-size:15px">Yu Yang, Hakan Bilen, <strong style="color:#ff7043; font-size:17px">Qiran Zou</strong>, Wing Yin Cheung, Xiangyang Ji</div>
+    <div class="author" style="font-size:16px">Yu Yang, Hakan Bilen, <strong style="color:#ff7043; font-size:17px">Qiran Zou</strong>, Wing Yin Cheung, Xiangyang Ji</div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2022. </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2104.00483.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
