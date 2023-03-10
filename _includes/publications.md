@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2211.13974.pdf">ILSGAN: Independent Layer Synthesis for Unsupervised Foreground-Background Segmentation</a></div>
-    <div class="author"><strong style="color:#ff7043; font-size:20px">Qiran Zou</strong>, Yu Yang, Wing Yin Cheung, Chang Liu, Xiangyang Ji</div>
+    <div class="author"><strong style="color:#ff7043; font-size:18px">Qiran Zou</strong>, Yu Yang, Wing Yin Cheung, Chang Liu, Xiangyang Ji</div>
     <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2023. (Main Track, Oral) </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.13974.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -35,7 +35,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2104.00483.pdf">Learning Foreground-Background Segmentation from Improved Layered GANs</a></div>
-    <div class="author">Yu Yang, Hakan Bilen, <strong style="color:#ff7043">Qiran Zou</strong>, Wing Yin Cheung, Xiangyang Ji</div>
+    <div class="author">Yu Yang, Hakan Bilen, <strong style="color:#ff7043; font-size:18px">Qiran Zou</strong>, Wing Yin Cheung, Xiangyang Ji</div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2022. </em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2104.00483.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -56,7 +56,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ac3a3a/meta">Tailoring atomic 1T phase CrTe2 for in situ fabrication</a></div>
-    <div class="author">Chaolun Wang, <strong style="color:#ff7043">Qiran Zou</strong>, Zhiheng Cheng, Jietao Chen, Chen Luo, Fang Liang, Chunhua Cai, Hengchang Bi, Xiaocong Lian, Xiangyang Ji, Qiubo Zhang, Litao Sun, Xing Wu</div>
+    <div class="author">Chaolun Wang, <strong style="color:#ff7043;  font-size:18px">Qiran Zou</strong>, Zhiheng Cheng, Jietao Chen, Chen Luo, Fang Liang, Chunhua Cai, Hengchang Bi, Xiaocong Lian, Xiangyang Ji, Qiubo Zhang, Litao Sun, Xing Wu</div>
     <div class="periodical"><em>Nanotechnology (Journal), 2021. </em></div>
     <div class="links">
       <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ac3a3a/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
