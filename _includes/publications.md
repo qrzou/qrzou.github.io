@@ -56,9 +56,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ac3a3a/meta">Tailoring atomic 1T phase CrTe2 for in situ fabrication</a></div>
-    
     <div class="author">Chaolun Wang, <strong>Qiran Zou</strong>, Zhiheng Cheng, Jietao Chen, Chen Luo, Fang Liang, Chunhua Cai, Hengchang Bi, Xiaocong Lian, Xiangyang Ji, Qiubo Zhang, Litao Sun, Xing Wu</div>
-    
     <div class="periodical"><em>Nanotechnology (Journal), 2021. </em></div>
     <div class="links">
       <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ac3a3a/meta" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
