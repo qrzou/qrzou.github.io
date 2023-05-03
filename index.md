@@ -14,7 +14,7 @@ I received my master degree in 2022 from <a href="https://www.au.tsinghua.edu.cn
 <!-- - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
-- **Computer Vision & Machine Learning:** generative models, representation learning, multi-modality, image segmentation, image manipulation, 
+- **Computer Vision & Machine Learning:** generative models, representation learning, image segmentation, image manipulation. 
 
 ## News
 
