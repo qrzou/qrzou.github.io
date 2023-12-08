@@ -8,8 +8,8 @@
 
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 180px;padding-top: 30px">
-    <abbr class="badge">submitted to CVPR 2024 <br> contact me for full paper</abbr>
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 180px">
+    <abbr class="badge">submitted to CVPR 2024 <br> contact me for the full paper</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
