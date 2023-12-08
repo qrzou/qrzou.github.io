@@ -8,14 +8,14 @@
 
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;">
     <img src="" class="teaser img-fluid z-depth-1">
     <abbr class="badge">submitted to CVPR 2024 <br> contact me for the full paper</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">ParCo: Part-Coordinating Text-to-Motion Synthesis</div>
-    <div class="author"><strong style="color:#ff7043; font-size:18px">Qiran Zou*</strong>, Shangyuan Yuan*, Yu Wang, Shian Du, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji</div>
+    <div class="author"><strong style="color:#ff7043; font-size:18px">Qiran Zou*</strong>, Shangyuan Yuan*, Yu Wang, Shian Du, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji. (*equal contribution).</div>
     <div class="periodical"><em>submitted to CVPR 2024</em></div>
     <div class="links">
 <!--       <a href="https://arxiv.org/pdf/2211.13974.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
