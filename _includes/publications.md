@@ -9,6 +9,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;">
+    <img src="" width="40" class="none">
     <abbr class="badge">submitted to CVPR 2024 <br> contact me for the full paper</abbr>
   </div>
 
