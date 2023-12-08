@@ -8,7 +8,11 @@ I am currently a research assistant at <a href="https://www.bnrist.tsinghua.edu.
 <br><br>
 I received my master degree in 2022 from <a href="https://www.au.tsinghua.edu.cn/index.htm">Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1166/2066.htm">Prof. Xiangyang Ji</a>. My research interests lie in generative models and representation learning, where I am fascinated by the possibilities for groundbreaking applications that can truly transform our world.
 <!-- and their applications which have the potential to change our lives. I am also interested in the cutting-edge intersection of machine learning and multiple modalities. -->
-My previous research has focused on unsupervised segmentation, aiming to reduce the annotation burden and improve the efficiency of learning knowledge from data.
+<br><br>
+Under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1166/2066.htm">Prof. Xiangyang Ji</a>
+and <a href="https://yxu71.github.io/">Prof. Yi Xu</a>,
+my previous research has focused on unsupervised segmentation and text-to-motion synthesis, with the aim of reducing human efforts and improving learning efficiency.
+
 
 ## Research Interests
 
