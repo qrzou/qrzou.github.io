@@ -8,7 +8,7 @@
 
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="" class="teaser img-fluid z-depth-1">
     <abbr class="badge">submitted to CVPR 2024 <br> contact me for full paper</abbr>
   </div>
