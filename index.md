@@ -24,7 +24,7 @@ My previous research has focused on unsupervised segmentation and text-to-motion
 
 ## News
 
-- **[Nov. 2023]** One paper about text-to-motion sythesis is submmited to CVPR 2024 (the first author).
+- **[Nov. 2023]** One paper about text-to-motion sythesis is submmited to CVPR 2024.
 - **[Dec. 2022]** Our paper about unsupervised foreground-background segmentation based on GAN is accepted to AAAI 2023 (Oral).
 - **[Oct. 2021]** Our paper about learning foreground-background segmentation from improved layered GANs is accepted to WACV 2022.
 
