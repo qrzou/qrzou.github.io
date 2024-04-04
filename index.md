@@ -10,7 +10,6 @@ Before that, I was mentored by
 <a href="https://www.au.tsinghua.edu.cn/info/1080/3178.htm">Prof. Xiangyang Ji</a>
 and <a href="https://yxu71.github.io/">Prof. Yi Xu</a> as a reasearch assistant at <a href="https://www.bnrist.tsinghua.edu.cn/bnristen/index.htm">BNRist</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>.
 
-<br><br>
 I received my master degree in 2022 from <a href="https://www.au.tsinghua.edu.cn/index.htm">Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1080/3178.htm">Prof. Xiangyang Ji</a>. My research interests lie in generative models and representation learning, where I am fascinated by the possibilities for groundbreaking applications that can truly transform our world.
 <!-- and their applications which have the potential to change our lives. I am also interested in the cutting-edge intersection of machine learning and multiple modalities. -->
 <br><br>
