@@ -17,7 +17,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2403.18512">ParCo: Part-Coordinating Text-to-Motion Synthesis</a></div>
     <div class="author"><strong style="color:#ff7043; font-size:18px">Qiran Zou*</strong>, Shangyuan Yuan*, Yu Wang, Shian Du, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji. (*equal contribution).</div>
-    <div class="periodical"><em>submitted to ECCV 2024</em></div>
+<!--     <div class="periodical"><em>submitted to ECCV 2024</em></div> -->
     <div class="links">
       <a href="https://arxiv.org/pdf/2403.18512.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/qrzou/ParCo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
