@@ -216,6 +216,7 @@ h2 {
   text-transform: uppercase;
 }
 .paper-badge.oral { background: #dc2626; }
+.paper-badge.spotlight { background: #d97706; }
 
 .paper-title {
   font-size: 1rem;
@@ -265,6 +266,13 @@ h2 {
   color: #dc2626;
   border-color: #dc2626;
   background: #fff5f5;
+  font-weight: 600;
+}
+
+.paper-link.spotlight-tag {
+  color: #d97706;
+  border-color: #d97706;
+  background: #fffbeb;
   font-weight: 600;
 }
 
