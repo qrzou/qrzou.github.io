@@ -1,0 +1,301 @@
+/* =============================================
+   Qiran Zou — Personal Homepage
+   style.css
+   ============================================= */
+
+/* ---- Reset & Base ---- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #1a1a1a;
+  background: #fff;
+}
+
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ---- Layout ---- */
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---- Fixed Navigation ---- */
+nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid #eee;
+  height: 52px;
+}
+
+nav .nav-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav .nav-name {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+nav .nav-name:hover { text-decoration: none; color: #2563eb; }
+
+nav .nav-links { display: flex; gap: 24px; list-style: none; }
+nav .nav-links a {
+  font-size: 0.9rem;
+  color: #444;
+  transition: color 0.15s;
+}
+nav .nav-links a:hover { color: #2563eb; text-decoration: none; }
+
+/* ---- Page offset for fixed nav ---- */
+main { padding-top: 76px; }
+
+/* ---- Section Base ---- */
+section { padding: 48px 0; border-bottom: 1px solid #f0f0f0; }
+section:last-child { border-bottom: none; }
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+/* ---- Hero / About Section ---- */
+#about { padding-top: 56px; }
+
+.hero {
+  display: flex;
+  gap: 36px;
+  align-items: flex-start;
+  margin-bottom: 28px;
+}
+
+.hero-photo img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #f0f0f0;
+  flex-shrink: 0;
+}
+
+.hero-info { flex: 1; }
+
+.hero-name {
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+  line-height: 1.2;
+}
+
+.hero-title {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 12px;
+}
+
+.hero-contact {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 14px;
+}
+
+.hero-links { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.btn-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.85rem;
+  padding: 5px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  color: #333;
+  background: #fafafa;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  text-decoration: none;
+}
+.btn-link:hover {
+  border-color: #2563eb;
+  color: #2563eb;
+  background: #eff6ff;
+  text-decoration: none;
+}
+
+.about-text p { color: #333; margin-bottom: 10px; }
+.about-text p:last-child { margin-bottom: 0; }
+
+/* ---- Research Interests ---- */
+.interests-list { list-style: none; padding: 0; }
+.interests-list li {
+  padding: 4px 0;
+  color: #333;
+  padding-left: 16px;
+  position: relative;
+}
+.interests-list li::before {
+  content: "›";
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-weight: bold;
+}
+
+/* ---- News ---- */
+.news-list { list-style: none; }
+.news-list li {
+  padding: 6px 0;
+  border-bottom: 1px solid #f5f5f5;
+  font-size: 0.95rem;
+  color: #333;
+}
+.news-list li:last-child { border-bottom: none; }
+.news-date {
+  display: inline-block;
+  font-weight: 600;
+  color: #2563eb;
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+/* ---- Publications ---- */
+.paper {
+  display: flex;
+  gap: 20px;
+  padding: 20px 0;
+  border-bottom: 1px solid #f0f0f0;
+  align-items: flex-start;
+}
+.paper:last-child { border-bottom: none; }
+
+.paper-thumb {
+  flex-shrink: 0;
+  width: 160px;
+  padding: 8px 0;
+}
+.paper-thumb img {
+  width: 160px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #eee;
+}
+
+.paper-info { flex: 1; }
+
+.paper-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: #2563eb;
+  color: #fff;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+.paper-badge.oral { background: #dc2626; }
+
+.paper-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 5px;
+}
+.paper-title a { color: #1a1a1a; }
+.paper-title a:hover { color: #2563eb; text-decoration: none; }
+
+.paper-authors {
+  font-size: 0.88rem;
+  color: #555;
+  margin-bottom: 4px;
+}
+.paper-authors strong { color: #1a1a1a; font-weight: 600; }
+
+.paper-venue {
+  font-size: 0.88rem;
+  color: #555;
+  font-style: italic;
+  margin-bottom: 8px;
+}
+.paper-venue strong { font-style: normal; font-weight: 600; color: #333; }
+
+.paper-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.paper-link {
+  font-size: 0.8rem;
+  padding: 3px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  color: #333;
+  background: #fafafa;
+  transition: border-color 0.15s, color 0.15s;
+  text-decoration: none;
+}
+.paper-link:hover {
+  border-color: #2563eb;
+  color: #2563eb;
+  background: #eff6ff;
+  text-decoration: none;
+}
+.paper.no-thumb { gap: 0; }
+.paper.no-thumb .paper-info { width: 100%; }
+
+.paper-link.oral-tag {
+  color: #dc2626;
+  border-color: #dc2626;
+  background: #fff5f5;
+  font-weight: 600;
+}
+
+/* ---- Services ---- */
+.services-text { color: #555; font-size: 0.95rem; }
+
+/* ---- Visitor Map ---- */
+#visitors { text-align: center; }
+.visitors-widget {
+  margin-top: 20px;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+/* ---- Footer ---- */
+footer {
+  padding: 28px 0;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #999;
+  border-top: 1px solid #f0f0f0;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 600px) {
+  .hero { flex-direction: column; align-items: center; text-align: center; }
+  .hero-photo img { width: 120px; height: 120px; }
+  .hero-links { justify-content: center; }
+  .paper { flex-direction: column; }
+  .paper-thumb { width: 100%; padding: 0; }
+  .paper-thumb img { width: 100%; height: 160px; }
+  nav .nav-links { gap: 14px; }
+}
