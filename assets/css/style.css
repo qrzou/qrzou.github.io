@@ -145,22 +145,6 @@ h2 {
 .about-text p { color: #333; margin-bottom: 10px; }
 .about-text p:last-child { margin-bottom: 0; }
 
-/* ---- Research Interests ---- */
-.interests-list { list-style: none; padding: 0; }
-.interests-list li {
-  padding: 4px 0;
-  color: #333;
-  padding-left: 16px;
-  position: relative;
-}
-.interests-list li::before {
-  content: "›";
-  position: absolute;
-  left: 0;
-  color: #2563eb;
-  font-weight: bold;
-}
-
 /* ---- News ---- */
 .news-list { list-style: none; }
 .news-list li {
