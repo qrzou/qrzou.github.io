@@ -279,15 +279,6 @@ h2 {
 /* ---- Services ---- */
 .services-text { color: #555; font-size: 0.95rem; }
 
-/* ---- Visitor Map ---- */
-#visitors { text-align: center; }
-.visitors-widget {
-  margin-top: 20px;
-  min-height: 200px;
-  display: flex;
-  justify-content: center;
-}
-
 /* ---- Footer ---- */
 footer {
   padding: 28px 0;
