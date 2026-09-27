@@ -144,6 +144,10 @@ h2 {
 
 .about-text p { color: #333; margin-bottom: 10px; }
 .about-text p:last-child { margin-bottom: 0; }
+.about-text ol { padding-left: 1.4em; color: #333; }
+.about-text ol li { margin-bottom: 4px; padding-left: 2px; }
+.about-text ol li:last-child { margin-bottom: 0; }
+.about-text ol li::marker { color: #2563eb; font-weight: 600; }
 
 /* ---- News ---- */
 .news-list { list-style: none; }
